@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 28 28" width="24px" height="24px">
+  <title>help</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Слой_1" data-name="Слой 1">
+      <path d="M14,1.75A12.25,12.25,0,1,1,1.75,14,12.26,12.26,0,0,1,14,1.75M14,0A14,14,0,1,0,28,14,14,14,0,0,0,14,0Z" fill="#9f9f9f"/>
+      <text transform="translate(9.5 21)" font-size="18" fill="#9f9f9f" font-family="Roboto-Bold, Roboto Bold" font-weight="700">?</text>
+    </g>
+  </g>
+</svg>
